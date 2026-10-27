@@ -30,3 +30,7 @@ compile_commands.json
 
 # macOS
 .DS_Store
+
+# Claude Code files (kept local only)
+.claude/
+CLAUDE.md
